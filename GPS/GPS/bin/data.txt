@@ -1,0 +1,34 @@
+Latitude : 
+System.Windows.Forms.TextBox, Text: cvbb
+
+Longitude : 
+System.Windows.Forms.TextBox, Text: xcvcxv
+
+Altitude : 
+System.Windows.Forms.TextBox, Text: cvcx
+
+UTC : 
+System.Windows.Forms.TextBox, Text: cvxcv
+
+Heading : 
+System.Windows.Forms.TextBox, Text: xcvxcvxc
+
+
+
+Latitude : 
+System.Windows.Forms.TextBox, Text: sdd
+
+Longitude : 
+System.Windows.Forms.TextBox, Text: hjh
+
+Altitude : 
+System.Windows.Forms.TextBox, Text: hj
+
+UTC : 
+System.Windows.Forms.TextBox, Text: bhvhj
+
+Heading : 
+System.Windows.Forms.TextBox, Text: hbghgh
+
+
+
